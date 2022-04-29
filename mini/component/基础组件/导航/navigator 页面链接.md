@@ -11,9 +11,11 @@ navigator 组件不支持 onTap 事件。
 # 使用
 
 ## Herbox
-[小程序在线](https://herbox-embed.alipay.com/s/doc-navigator?theme=light&previewZoom=75&chInfo=openhome-doc) 
 
-## 示例代码
+
+## 示例
+
+[小程序在线](https://opendocs.alipay.com/examples/181df30d-dcd0-4c09-9516-2d6f9f282d96) 
 
 ### .axml 示例代码
 ```html
